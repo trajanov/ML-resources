@@ -1,2 +1,5 @@
-# ML-resources
-Collection of ML libraries, datasets, courses ...
+# Libraries
+
+# Learning resources
+
+# Datasets
