@@ -9,4 +9,9 @@
 
 # Learning resources
 
-# Datasets
+## Datasets
+### Biomedical
+#### Medical Information Extraction
+[Source: https://www.figure-eight.com/dataset/medical-sentence-summary-and-relation-extraction/](https://www.figure-eight.com/dataset/medical-sentence-summary-and-relation-extraction/)
+
+This dataset contains 3,984 medical sentences extracted from PubMed abstracts and relationships between discrete medical terms were annotated. This dataset focuses primarily on “treat” and “cause” relationships, with 1,043 sentences containing treatment relations and 1,787 containing causal ones.
