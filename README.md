@@ -1,9 +1,7 @@
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-# Libraries
+# ML Libraries and Resources
 ## NLP
 ### Topic Modelling
-
+## ML models
 ### Time Series
 #### sktime
 [Source: https://github.com/sktime/sktime-dl](https://github.com/sktime/sktime-dl)
@@ -17,9 +15,11 @@ A scikit-learn compatible Python toolbox for learning with time series. sktime c
 
 An extension package for deep learning with Keras for sktime, a scikit-learn compatible Python toolbox for learning with time series and panel data. Currently, classification models based off the the networks in dl-4-tsc have been implemented, as well as an example of a tuned network for future development.
 
-# Learning resources
+# Datasets
+## Sentiment
 
-## Datasets
+
+## Relation extraction
 ### Biomedical
 #### Medical Information Extraction
 [Source: https://www.figure-eight.com/dataset/medical-sentence-summary-and-relation-extraction/](https://www.figure-eight.com/dataset/medical-sentence-summary-and-relation-extraction/)
