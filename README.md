@@ -4,7 +4,7 @@
 #### Missingno: Missing data visualizations
 https://github.com/ResidentMario/missingno
 
-Missingno provides a small toolset of flexible and easy-to-use missing data visualizations and utilities that allows you to get a quick visual summary of the completeness (or lack thereof) of your dataset
+Missingno provides a small toolset of flexible and easy-to-use missing data visualizations and utilities that allows you to get a quick visual summary of the completeness (or lack thereof) of your dataset.
 ## NLP
 ### Topic Modelling
 ## ML models
