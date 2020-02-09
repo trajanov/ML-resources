@@ -63,6 +63,15 @@ List of 733 stop words
 
 
 ## Relation extraction
+### Named Entity Extraction & Linking
+#### Making Sense of Microposts
+2014 http://ceur-ws.org/Vol-1141/
+2015 http://ceur-ws.org/Vol-1395/
+2016 http://microposts2016.seas.upenn.edu/challenge.html
+#### Datasets for Entity Recognition
+https://github.com/juand-r/entity-recognition-datasets
+This repository contains datasets from several domains annotated with a variety of entity types, useful for entity recognition and named entity recognition (NER) tasks.
+
 ### Biomedical
 #### Medical Information Extraction
 [https://www.figure-eight.com/dataset/medical-sentence-summary-and-relation-extraction/](https://www.figure-eight.com/dataset/medical-sentence-summary-and-relation-extraction/)
