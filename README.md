@@ -65,11 +65,10 @@ List of 733 stop words
 ## Relation extraction
 ### Named Entity Extraction & Linking
 #### Making Sense of Microposts
-2014 http://ceur-ws.org/Vol-1141/
-
-2015 http://ceur-ws.org/Vol-1395/
-
-2016 http://microposts2016.seas.upenn.edu/challenge.html
+The dataset consists of tweets extracted from a collection of over 18 million tweets. The dataset includes event-annotated tweets provided by the Redites project. The task of the challenge is to automatically recognise entities and their types from English microposts, and link them to the corresponding English DBpedia 2014 resources.
+- 2014 http://ceur-ws.org/Vol-1141/
+- 2015 http://ceur-ws.org/Vol-1395/
+- 2016 http://microposts2016.seas.upenn.edu/challenge.html
 #### Datasets for Entity Recognition
 https://github.com/juand-r/entity-recognition-datasets
 This repository contains datasets from several domains annotated with a variety of entity types, useful for entity recognition and named entity recognition (NER) tasks.
