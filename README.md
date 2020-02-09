@@ -66,7 +66,9 @@ List of 733 stop words
 ### Named Entity Extraction & Linking
 #### Making Sense of Microposts
 2014 http://ceur-ws.org/Vol-1141/
+
 2015 http://ceur-ws.org/Vol-1395/
+
 2016 http://microposts2016.seas.upenn.edu/challenge.html
 #### Datasets for Entity Recognition
 https://github.com/juand-r/entity-recognition-datasets
